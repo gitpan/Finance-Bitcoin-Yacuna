@@ -1,5 +1,5 @@
 NAME
-    Finance::Bitcoin::Yacuna - yacuna.com API connector
+    Finance::Bitcoin::Yacuna - Yacuna Bitcoin exchange trading api connector
 
 VERSION
     0.1
